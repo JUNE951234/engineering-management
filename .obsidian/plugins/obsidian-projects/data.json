@@ -1,0 +1,225 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 360
+              },
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Table",
+          "id": "375eee97-6d54-44ac-a6de-7c286a10fa85",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "priorityField": "weight"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Board",
+          "id": "9adbdd5f-a8e2-4c3d-a845-0c7105d13d37",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Calendar",
+          "id": "3849a69a-a7e1-4a9d-a732-84cd77d8bd71",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "image"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Gallery",
+          "id": "39cc6199-03c9-4ae6-bdad-6cd34fd323fb",
+          "type": "gallery"
+        }
+      ],
+      "name": "Demo project",
+      "id": "c4f554de-1654-46d5-bb5e-c2e6339229fc",
+      "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "ZJJ拎包入住工程",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 204
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8c5df4e2-cdc0-4086-ba1a-3a2e6f9e1a3d",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5e292cde-9e1c-41ea-ad12-aa3b473b0b67",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "95d4a3ec-eb55-49bf-9820-d48b713538d6",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a85f9fa5-6cdf-422c-9b51-b5cdbdb90056",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "9eaf7f27-fa0d-4072-aafb-ee08783732a7",
+      "name": "ZJJ拎包入住工程"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [
+      {
+        "project": "c4f554de-1654-46d5-bb5e-c2e6339229fc"
+      },
+      {
+        "project": "c4f554de-1654-46d5-bb5e-c2e6339229fc",
+        "view": "375eee97-6d54-44ac-a6de-7c286a10fa85"
+      },
+      {
+        "project": "c4f554de-1654-46d5-bb5e-c2e6339229fc",
+        "view": "9adbdd5f-a8e2-4c3d-a845-0c7105d13d37"
+      },
+      {
+        "project": "c4f554de-1654-46d5-bb5e-c2e6339229fc",
+        "view": "3849a69a-a7e1-4a9d-a732-84cd77d8bd71"
+      },
+      {
+        "project": "c4f554de-1654-46d5-bb5e-c2e6339229fc",
+        "view": "39cc6199-03c9-4ae6-bdad-6cd34fd323fb"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}

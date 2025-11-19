@@ -1,0 +1,18 @@
+.setName("Enhance Default Paste")
+.setName("增强默认粘贴")
+.setDesc("Fetch the link title when pasting a link in the editor with the default paste command")
+.setDesc("使用默认粘贴命令在编辑器中粘贴链接时获取链接标题")
+.setName("Replace Selection")
+.setName("替换选择")
+.setDesc("Whether to replace a text selection with link and fetched title")
+.setDesc("是否用链接和获取的标题替换文本选择")
+return "Site Unreachable";
+return "网站无法访问";
+return "Site Unreachable";
+return "网站无法访问";
+name: "Paste URL and auto fetch title",
+name: "粘贴 URL 并自动获取标题",
+name: "Enhance existing URL with link and title",
+name: "使用链接和标题增强现有 URL",
+return "Site Unreachable";
+return "网站无法访问";

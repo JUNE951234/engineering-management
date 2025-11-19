@@ -1,0 +1,40 @@
+{
+  "workspace:previous-tab": [],
+  "workspace:goto-tab-8": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:next-tab": [],
+  "workspace:goto-last-tab": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "workspace:new-tab": [],
+  "file-explorer:new-file": [],
+  "editor:open-search": [],
+  "editor:open-search-replace": [],
+  "app:go-forward": [],
+  "markdown:toggle-preview": [],
+  "editor:toggle-checklist-status": [],
+  "switcher:open": [],
+  "workspace:close-window": [],
+  "app:go-back": [],
+  "obsidian-auto-link-title:auto-link-title-normal-paste": [],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
