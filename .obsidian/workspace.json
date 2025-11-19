@@ -228,7 +228,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "管理建模与仿真.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
@@ -302,21 +302,21 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
+                "file": "管理建模与仿真.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较 的反向链接列表"
+              "title": "管理建模与仿真 的反向链接列表"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -334,11 +334,24 @@
       "graph:查看关系图谱": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8ff1cb1026f6cdab",
   "lastOpenFiles": [
+    "通过基于模型的系统工程方法实现数字孪生的落地应用.md",
+    "系统架构7：功能和形式如何映射.md",
+    "智造讲堂：信息流的表征工具.md",
+    "系统架构2：分解-管理复杂的利器.md",
+    "熵权TOPSIS.md",
+    "关键路径法.md",
+    "熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
+    "工程管理论文中的算法.md",
+    "系统架构9：如何让概念通向现实.md",
+    "工程管理论文写作套路思考.md",
+    "学术文章-系统动力学应用于建设中的战略决策.md",
+    "管理建模与仿真.md",
     "README.md",
     "文献整理方法.md",
     "熵权法.md",
@@ -348,16 +361,9 @@
     "最小二乘支持向量机.md",
     "已阅读论文整理.md",
     "系统架构1：系统架构-对系统的抽象和分析.md",
-    "工程管理论文中的算法.md",
-    "智造讲堂：信息流的表征工具.md",
-    "系统架构7：功能和形式如何映射.md",
-    "系统架构9：如何让概念通向现实.md",
     "DSM：设计结构矩阵.md",
     "设计结构矩阵.md",
-    "熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
     "熵值法.md",
-    "熵权TOPSIS.md",
-    "管理建模与仿真.md",
     "3 学习/大模型/未命名.md",
     "附件/6b06e509-a8d6-48ef-9290-247c0d96f3d4.png",
     "附件/f4364fc0-6242-4543-9fd1-f4dec1c9c7ab.png",
@@ -370,11 +376,6 @@
     "附件/451f749c-b16f-42b5-8e75-9a9934c3806d.png",
     "附件/cf86769e-7a3b-49f7-91d5-a8bab6cdd6c7.png",
     "Period Notes/Daily Notes/2025-09-24-周三.md",
-    "Period Notes/Daily Notes/2025-11-09-周日.md",
-    "Period Notes/Daily Notes/2025-09-18-周四.md",
-    "大模型智能体发展的关键技术与挑战-刘知远.md",
-    "外滩人工智能大会-笔记.md",
-    "6 知识库/数据领域常用名词解释-国家数据库.md",
     "3 学习/大模型",
     "2 工作/项目工作/上海-行业大模型/0807试洗数据样例及说明/0807试洗数据样例及说明/0807轨交文档清洗需求执行方案说明.pdf",
     "2 工作/项目工作/上海-行业大模型/0807试洗数据样例及说明/0807试洗数据样例及说明/0807交付样例/习题QA/图片QA.zip",
