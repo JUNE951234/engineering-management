@@ -22,7 +22,8 @@ Engineering Management Models &amp; Methods Repository
 13. [[DSM：设计结构矩阵|DSM]] 矩阵
 14. [[系统动力学]]
 15. [[层次分析法]]
-16. zhi'chi'xiang'lia
+16. [[支持向量机]]
+17. 
 
 
 

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "支持向量机.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "支持向量机"
             }
           }
         ],
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "支持向量机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "支持向量机 的反向链接列表"
             }
           }
         ],
@@ -340,8 +340,9 @@
   },
   "active": "8ff1cb1026f6cdab",
   "lastOpenFiles": [
-    "层次分析法.md",
     "README.md",
+    "支持向量机.md",
+    "层次分析法.md",
     "关键路径法.md",
     "工程管理论文写作套路思考.md",
     "文献整理方法.md",
@@ -365,7 +366,6 @@
     "系统架构3：如何用简洁图形描述系统架构.md",
     "系统架构1：系统架构-对系统的抽象和分析.md",
     "DSM：设计结构矩阵.md",
-    "设计结构矩阵.md",
     "附件/6b06e509-a8d6-48ef-9290-247c0d96f3d4.png",
     "附件/f4364fc0-6242-4543-9fd1-f4dec1c9c7ab.png",
     "附件/de438c3a-4cd0-4f4d-a994-ef4c4668d99e.png",
