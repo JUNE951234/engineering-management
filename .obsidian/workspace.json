@@ -294,6 +294,50 @@
               "icon": "links-coming-in",
               "title": "神经网络算法 的反向链接列表"
             }
+          },
+          {
+            "id": "421b3a4aa8c782de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4038db43675c90e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "683b33b1babed165",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "模型方法/神经网络算法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "神经网络算法 的大纲"
+            }
           }
         ]
       }
