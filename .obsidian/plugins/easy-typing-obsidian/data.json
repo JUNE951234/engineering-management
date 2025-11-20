@@ -54,7 +54,7 @@
   "userDelRuleSettingsOpen": true,
   "userCvtRuleSettingsOpen": true,
   "StrictModeEnter": true,
-  "StrictLineMode": "enter_twice",
+  "StrictLineMode": "mix_mode",
   "EnhanceModA": false,
   "TryFixChineseIM": false,
   "PuncRectify": false,

@@ -1,10 +1,13 @@
 ---
 created: 2025/11/17 15:03
-updated: 2025/11/20 09:51
+updated: 2025/11/20 14:07
 ---
 # engineering-management
 Engineering Management Models &amp; Methods Repository
-📚 A systematic summary of classic and practical engineering management tools (e.g., WBS, CPM, Agile, RACI, OKR). Includes core principles, step-by-step guides, case studies and comparative analysis to support project efficiency improvement.🔍 Covers scope, schedule, cost, quality, risk & team management.
+
+📚 A systematic summary of classic and practical engineering management tools (e.g., WBS, CPM, Agile, RACI, OKR). Includes core principles, step-by-step guides, case studies and comparative analysis to support project efficiency improvement.
+
+🔍 Covers scope, schedule, cost, quality, risk & team management.
 
 # 工程管理模型
 1. [[价值流 ]]
