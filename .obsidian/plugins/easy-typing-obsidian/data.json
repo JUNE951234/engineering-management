@@ -3,7 +3,7 @@
   "SelectionEnhance": true,
   "IntrinsicSymbolPairs": true,
   "BaseObEditEnhance": true,
-  "FW2HWEnhance": false,
+  "FW2HWEnhance": true,
   "BetterCodeEdit": true,
   "BetterBackspace": true,
   "AutoFormat": true,

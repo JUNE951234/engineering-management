@@ -4,7 +4,7 @@
   "attachmentFolderPath": "附件",
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "spellcheck": true,
   "showFrontmatter": true,
   "pdfExportSettings": {
