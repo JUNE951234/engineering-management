@@ -227,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "已阅读论文整理.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "元分析法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "已阅读论文整理 的出链列表"
+              "title": "元分析法 的出链列表"
             }
           },
           {
@@ -308,15 +308,15 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "元分析法 的反向链接列表"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -339,7 +339,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8ff1cb1026f6cdab",
+  "active": "feca046754ac9ff5",
   "lastOpenFiles": [
     "已阅读论文整理.md",
     "关键路径法.md",
