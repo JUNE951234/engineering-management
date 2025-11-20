@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "已阅读论文整理.md",
+                "file": "最小二乘支持向量机.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "已阅读论文整理"
+              "title": "最小二乘支持向量机"
             }
           }
         ],
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "已阅读论文整理.md",
+                "file": "最小二乘支持向量机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "已阅读论文整理 的反向链接列表"
+              "title": "最小二乘支持向量机 的反向链接列表"
             }
           }
         ],
@@ -340,6 +340,7 @@
   },
   "active": "8ff1cb1026f6cdab",
   "lastOpenFiles": [
+    "已阅读论文整理.md",
     "管理建模与仿真.md",
     "通过基于模型的系统工程方法实现数字孪生的落地应用.md",
     "系统架构7：功能和形式如何映射.md",
@@ -359,7 +360,6 @@
     "系统架构3：如何用简洁图形描述系统架构.md",
     "工程管理研究方法（1）——系统动力学.md",
     "最小二乘支持向量机.md",
-    "已阅读论文整理.md",
     "系统架构1：系统架构-对系统的抽象和分析.md",
     "DSM：设计结构矩阵.md",
     "设计结构矩阵.md",
