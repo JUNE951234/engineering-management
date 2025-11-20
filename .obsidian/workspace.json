@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 219.5
   },
   "right": {
     "id": "5f5181de453cb380",
@@ -207,42 +207,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edaafce77685b3f1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabeticalReverse",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "310da49e1cf93ec5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "元分析法.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "元分析法 的出链列表"
-            }
-          },
-          {
             "id": "75e0a7b68e2799de",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           },
           {
@@ -255,20 +226,6 @@
               },
               "icon": "lucide-info",
               "title": "元分析法的笔记属性"
-            }
-          },
-          {
-            "id": "ddb5bd7a9d7e4f93",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
             }
           },
           {
@@ -297,6 +254,20 @@
             }
           },
           {
+            "id": "310da49e1cf93ec5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "元分析法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "元分析法 的出链列表"
+            }
+          },
+          {
             "id": "feca046754ac9ff5",
             "type": "leaf",
             "state": {
@@ -315,12 +286,11 @@
               "title": "元分析法 的反向链接列表"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,7 +308,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ff1cb1026f6cdab",
+  "active": "75e0a7b68e2799de",
   "lastOpenFiles": [
     "已阅读论文整理.md",
     "关键路径法.md",
