@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模型方法/熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
+                "file": "模型方法/遗传算法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较"
+              "title": "遗传算法"
             }
           }
         ],
@@ -253,21 +253,6 @@
             }
           },
           {
-            "id": "07145632a32249d3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "元分析法.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "元分析法 的大纲"
-            }
-          },
-          {
             "id": "86fc38595279f391",
             "type": "leaf",
             "state": {
@@ -283,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模型方法/熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
+                "file": "模型方法/遗传算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较 的出链列表"
+              "title": "遗传算法 的出链列表"
             }
           },
           {
@@ -297,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模型方法/熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
+                "file": "模型方法/遗传算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,44 +292,14 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较 的反向链接列表"
-            }
-          },
-          {
-            "id": "b4817bfc08032dad",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "be0730fb0275a8cd",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "遗传算法 的反向链接列表"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -364,6 +319,11 @@
   },
   "active": "f1216b7c61b47d2b",
   "lastOpenFiles": [
+    "模型方法/工程管理论文中的算法.md",
+    "模型方法/遗传算法.md",
+    "模型方法/层次分析法.md",
+    "模型方法/熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
+    "模型方法/熵权法.md",
     "模型方法/DSM：设计结构矩阵.md",
     "模型方法/关键路径法.md",
     "模型方法/支持向量机.md",
@@ -376,20 +336,16 @@
     "论文阅读/通过基于模型的系统工程方法实现数字孪生的落地应用.md",
     "管理建模与仿真.md",
     "相关文章转载",
-    "模型方法/工程管理论文中的算法.md",
-    "模型方法/层次分析法.md",
     "README.md",
     "论文阅读",
     "模型方法/元分析法.md",
     "模型方法",
-    "模型方法/熵权法.md",
     "模型方法/最小二乘支持向量机.md",
     "TOPSIS.md",
     "相关文章转载/智造讲堂：信息流的表征工具.md",
     "相关文章转载/系统架构7：功能和形式如何映射.md",
     "模型方法/熵值法.md",
     "相关文章转载/系统架构2：分解-管理复杂的利器.md",
-    "模型方法/熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
     "相关文章转载/系统架构9：如何让概念通向现实.md",
     "相关文章转载/系统架构3：如何用简洁图形描述系统架构.md",
     "附件/6b06e509-a8d6-48ef-9290-247c0d96f3d4.png",
