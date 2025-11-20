@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "熵权TOPSIS.md",
+                "file": "元分析法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "熵权TOPSIS"
+              "title": "元分析法"
             }
           }
         ],
@@ -251,10 +251,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "6 知识库/数据领域常用名词解释-国家数据库.md"
+                "file": "元分析法.md"
               },
               "icon": "lucide-info",
-              "title": "数据领域常用名词解释-国家数据库的笔记属性"
+              "title": "元分析法的笔记属性"
             }
           },
           {
@@ -277,13 +277,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "熵权TOPSIS.md",
+                "file": "元分析法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "熵权TOPSIS 的大纲"
+              "title": "元分析法 的大纲"
             }
           },
           {
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "熵权TOPSIS.md",
+                "file": "元分析法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,11 +312,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "熵权TOPSIS 的反向链接列表"
+              "title": "元分析法 的反向链接列表"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -341,13 +341,13 @@
   },
   "active": "8ff1cb1026f6cdab",
   "lastOpenFiles": [
-    "熵权法.md",
-    "熵权TOPSIS.md",
-    "支持向量机.md",
-    "README.md",
-    "元分析法.md",
     "已阅读论文整理.md",
     "关键路径法.md",
+    "支持向量机.md",
+    "熵权TOPSIS.md",
+    "熵权法.md",
+    "README.md",
+    "元分析法.md",
     "最小二乘支持向量机.md",
     "工程管理研究方法（1）——系统动力学.md",
     "学术文章-系统动力学应用于建设中的战略决策.md",
