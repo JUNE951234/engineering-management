@@ -295,8 +295,7 @@
               "title": "神经网络算法 的反向链接列表"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,7 +317,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1216b7c61b47d2b",
+  "active": "75e0a7b68e2799de",
   "lastOpenFiles": [
     "模型方法/工程管理论文中的算法.md",
     "模型方法/神经网络算法.md",
