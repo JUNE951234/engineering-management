@@ -18,5 +18,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-latex-suite",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "convert-katex-to-mathjax"
 ]
