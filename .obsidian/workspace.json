@@ -339,7 +339,8 @@
               "title": "未命名 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -361,7 +362,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1216b7c61b47d2b",
+  "active": "86fc38595279f391",
   "lastOpenFiles": [
     "模型方法/元分析法.md",
     "未命名.md",
