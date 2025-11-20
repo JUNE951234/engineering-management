@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "管理建模与仿真.md",
+                "file": "已阅读论文整理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "管理建模与仿真"
+              "title": "已阅读论文整理"
             }
           }
         ],
@@ -227,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "管理建模与仿真.md",
+                "file": "已阅读论文整理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "管理建模与仿真 的出链列表"
+              "title": "已阅读论文整理 的出链列表"
             }
           },
           {
@@ -277,13 +277,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "管理建模与仿真.md",
+                "file": "已阅读论文整理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "管理建模与仿真 的大纲"
+              "title": "已阅读论文整理 的大纲"
             }
           },
           {
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "管理建模与仿真.md",
+                "file": "已阅读论文整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "管理建模与仿真 的反向链接列表"
+              "title": "已阅读论文整理 的反向链接列表"
             }
           }
         ],
@@ -340,6 +340,7 @@
   },
   "active": "8ff1cb1026f6cdab",
   "lastOpenFiles": [
+    "管理建模与仿真.md",
     "通过基于模型的系统工程方法实现数字孪生的落地应用.md",
     "系统架构7：功能和形式如何映射.md",
     "智造讲堂：信息流的表征工具.md",
@@ -351,7 +352,6 @@
     "系统架构9：如何让概念通向现实.md",
     "工程管理论文写作套路思考.md",
     "学术文章-系统动力学应用于建设中的战略决策.md",
-    "管理建模与仿真.md",
     "README.md",
     "文献整理方法.md",
     "熵权法.md",
