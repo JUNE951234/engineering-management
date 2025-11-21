@@ -1,13 +1,16 @@
 ---
 created: 2025/11/17 15:03
-updated: 2025/11/21 23:09
+updated: 2025/11/21 23:13
+aliases:
 ---
-# engineering-management
+# Engineering Management
 Engineering Management Models &amp; Methods Repository
 
 📚 A systematic summary of classic and practical engineering management tools (e.g., WBS, CPM, Agile, RACI, OKR). Includes core principles, step-by-step guides, case studies and comparative analysis to support project efficiency improvement.
 
 🔍 Covers scope, schedule, cost, quality, risk & team management.
+
+学习过程顺手整理。
 
 # 工程管理模型
 1. [[价值流 ]]
@@ -29,7 +32,8 @@ Engineering Management Models &amp; Methods Repository
 17. [[支持向量机]]
 18. [[关键路径法]]
 19. [[支持向量机]]
-20. 
+20. [[元分析法]]
+21. [[遗传算法]]
 
 
 
@@ -55,6 +59,5 @@ Engineering Management Models &amp; Methods Repository
 
 # 工程管理论文写作
 
-[[工程学写作指南]]
-
-[[工程管理论文写作套路思考]]
+-  [[工程学写作指南]]
+- [[工程管理论文写作套路思考]]

@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "工程学写作指南.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "工程学写作指南"
             }
           }
         ],
@@ -363,8 +363,8 @@
   },
   "active": "f1216b7c61b47d2b",
   "lastOpenFiles": [
-    "工程学写作指南.md",
     "README.md",
+    "工程学写作指南.md",
     "附件/Pasted image 20251121230637.png",
     "附件",
     "未命名.md",
