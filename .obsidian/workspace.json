@@ -339,8 +339,7 @@
               "title": "未命名 的大纲"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -362,7 +361,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1216b7c61b47d2b",
+  "active": "75e0a7b68e2799de",
   "lastOpenFiles": [
     "未命名.md",
     "工程协作.md",
