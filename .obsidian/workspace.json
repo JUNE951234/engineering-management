@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "管理建模与仿真.md",
+                "file": "模型方法/自组织理论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "管理建模与仿真"
+              "title": "自组织理论"
             }
           }
         ],
@@ -330,16 +330,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "模型方法/自组织理论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "自组织理论 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -363,6 +364,8 @@
   },
   "active": "f1216b7c61b47d2b",
   "lastOpenFiles": [
+    "管理建模与仿真.md",
+    "模型方法/自组织理论.md",
     "研究方案设计.md",
     "README.md",
     "工程学写作指南.md",
@@ -390,7 +393,6 @@
     "论文阅读/工程管理论文写作套路思考.md",
     "论文阅读/已阅读论文整理.md",
     "论文阅读/通过基于模型的系统工程方法实现数字孪生的落地应用.md",
-    "管理建模与仿真.md",
     "相关文章转载",
     "论文阅读",
     "模型方法",
