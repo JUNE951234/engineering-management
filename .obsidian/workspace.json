@@ -11,48 +11,20 @@
             "id": "e7f9ab08ce08be6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Period Notes/Daily Notes/2025-11-09-周日.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-11-09-周日"
+              "title": "新标签页"
             }
           },
           {
             "id": "4271adb7becf68db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文献阅读.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "文献阅读"
+              "title": "新标签页"
             }
           },
           {
@@ -83,24 +55,10 @@
             "id": "4e8af54c385d10c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文献整理方法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "文献整理方法"
+              "title": "新标签页"
             }
           },
           {
@@ -388,18 +346,19 @@
   },
   "active": "1a8a61655f7efb59",
   "lastOpenFiles": [
-    "未命名.md",
+    "附件/未命名.md",
     "管理建模与仿真.md",
+    "未命名.md",
+    "模型方法/元分析法.md",
+    "README.md",
     "模型方法/自组织理论.md",
     "研究方案设计.md",
-    "README.md",
     "工程学写作指南.md",
     "附件/Pasted image 20251121230637.png",
     "附件",
     "相关书籍材料/《工程管理设计研究》（南京大学-宁延教授）书稿ppt/~$9解决方案评估.pptx",
     "相关书籍材料/《工程管理设计研究》（南京大学-宁延教授）书稿ppt/~$8解决方案设计.pptx",
     "相关书籍材料/《工程管理设计研究》（南京大学-宁延教授）书稿ppt/~$7问题研究.pptx",
-    "模型方法/元分析法.md",
     "相关书籍材料/《工程管理设计研究》（南京大学-宁延教授）书稿ppt/~$6研究方案设计概述.pptx",
     "模型方法/最小二乘支持向量机.md",
     "模型方法/关键路径法.md",
@@ -422,7 +381,6 @@
     "论文阅读",
     "模型方法",
     "TOPSIS.md",
-    "相关文章转载/智造讲堂：信息流的表征工具.md",
     "附件/6b06e509-a8d6-48ef-9290-247c0d96f3d4.png",
     "附件/f4364fc0-6242-4543-9fd1-f4dec1c9c7ab.png",
     "附件/de438c3a-4cd0-4f4d-a994-ef4c4668d99e.png",
