@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "预测.md",
+                "file": "灰色系统理论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,7 +82,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "预测"
+              "title": "灰色系统理论"
             }
           }
         ],
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "预测.md",
+                "file": "灰色系统理论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "预测 的大纲"
+              "title": "灰色系统理论 的大纲"
             }
           }
         ],
@@ -298,8 +298,8 @@
   },
   "active": "0a678f14bbb47464",
   "lastOpenFiles": [
-    "工程学写作指南.md",
     "预测.md",
+    "工程学写作指南.md",
     "模型方法/层次分析法.md",
     "模型方法/遗传算法.md",
     "灰色系统理论.md",
