@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -264,12 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "模型方法/层次分析法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "层次分析法 的大纲"
             }
           }
         ],
@@ -295,7 +296,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e8af54c385d10c6",
+  "active": "0a678f14bbb47464",
   "lastOpenFiles": [
     "模型方法/层次分析法.md",
     "模型方法/遗传算法.md",
