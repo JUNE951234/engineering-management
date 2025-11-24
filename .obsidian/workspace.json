@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "预测知识体系整理.md",
+                "file": "模型方法/层次分析法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -130,11 +130,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "预测知识体系整理"
+              "title": "层次分析法"
+            }
+          },
+          {
+            "id": "31fe4ea58f2bfc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "预测.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "预测"
+            }
+          },
+          {
+            "id": "0a678f14bbb47464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "预测.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "预测"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -312,13 +360,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "预测知识体系整理.md",
+                "file": "预测.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "预测知识体系整理 的大纲"
+              "title": "预测 的大纲"
             }
           }
         ],
@@ -344,11 +392,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a8a61655f7efb59",
+  "active": "0a678f14bbb47464",
   "lastOpenFiles": [
-    "附件/未命名.md",
+    "灰色系统理论.md",
+    "预测.md",
+    "模型方法/评价.md",
+    "模型方法/层次分析法.md",
     "管理建模与仿真.md",
-    "预测知识体系整理.md",
+    "附件/4a6623b7-39d8-4162-982c-3e096dc6dc4c.png",
+    "附件/未命名.md",
     "模型方法/元分析法.md",
     "README.md",
     "模型方法/自组织理论.md",
@@ -369,18 +421,15 @@
     "模型方法/神经网络算法.md",
     "模型方法/工程管理论文中的算法.md",
     "模型方法/遗传算法.md",
-    "模型方法/层次分析法.md",
     "模型方法/DSM：设计结构矩阵.md",
     "相关文章转载/工程管理研究方法（1）——系统动力学.md",
     "论文阅读/学术文章-系统动力学应用于建设中的战略决策.md",
     "论文阅读/文献整理方法.md",
     "论文阅读/工程管理论文写作套路思考.md",
     "论文阅读/已阅读论文整理.md",
-    "论文阅读/通过基于模型的系统工程方法实现数字孪生的落地应用.md",
     "相关文章转载",
     "论文阅读",
     "模型方法",
-    "TOPSIS.md",
     "附件/6b06e509-a8d6-48ef-9290-247c0d96f3d4.png",
     "附件/f4364fc0-6242-4543-9fd1-f4dec1c9c7ab.png",
     "附件/de438c3a-4cd0-4f4d-a994-ef4c4668d99e.png",
@@ -389,7 +438,6 @@
     "附件/0846efaa-a0d3-4eb4-b39a-7f80c72c9690.png",
     "附件/fadaf6e2-4ee3-4ae0-90a2-d25f6eafd909.png",
     "附件/612b4c9a-fa42-4327-b68d-edcb4c94188d.png",
-    "附件/451f749c-b16f-42b5-8e75-9a9934c3806d.png",
     "3 学习/大模型",
     "2 工作/项目工作/上海-行业大模型/0807试洗数据样例及说明/0807试洗数据样例及说明/0807轨交文档清洗需求执行方案说明.pdf",
     "未命名.canvas",
