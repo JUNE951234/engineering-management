@@ -62,84 +62,12 @@
             }
           },
           {
-            "id": "8ff1cb1026f6cdab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模型方法/元分析法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "元分析法"
-            }
-          },
-          {
-            "id": "f1216b7c61b47d2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "管理建模与仿真.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "管理建模与仿真"
-            }
-          },
-          {
-            "id": "1a8a61655f7efb59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "灰色系统理论.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "灰色系统理论"
-            }
-          },
-          {
             "id": "0a678f14bbb47464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "预测.md",
+                "file": "模型方法/层次分析法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -154,11 +82,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "预测"
+              "title": "层次分析法"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -336,13 +264,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "灰色系统理论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "灰色系统理论 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -368,16 +295,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a8a61655f7efb59",
+  "active": "4e8af54c385d10c6",
   "lastOpenFiles": [
+    "模型方法/层次分析法.md",
+    "模型方法/遗传算法.md",
+    "灰色系统理论.md",
+    "预测.md",
+    "管理建模与仿真.md",
     "模型方法/评价.md",
     "模型方法/自组织理论.md",
-    "模型方法/层次分析法.md",
-    "预测.md",
     "README.md",
     "模型方法/元分析法.md",
-    "灰色系统理论.md",
-    "管理建模与仿真.md",
     "附件/4a6623b7-39d8-4162-982c-3e096dc6dc4c.png",
     "附件/未命名.md",
     "研究方案设计.md",
@@ -396,7 +324,6 @@
     "模型方法/熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
     "模型方法/神经网络算法.md",
     "模型方法/工程管理论文中的算法.md",
-    "模型方法/遗传算法.md",
     "模型方法/DSM：设计结构矩阵.md",
     "相关文章转载/工程管理研究方法（1）——系统动力学.md",
     "论文阅读/学术文章-系统动力学应用于建设中的战略决策.md",
