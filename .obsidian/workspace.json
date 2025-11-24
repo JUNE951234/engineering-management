@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "预测知识体系整理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -130,7 +130,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "预测知识体系整理"
             }
           }
         ],
@@ -312,13 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "预测知识体系整理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "预测知识体系整理 的大纲"
             }
           }
         ],
@@ -348,7 +348,7 @@
   "lastOpenFiles": [
     "附件/未命名.md",
     "管理建模与仿真.md",
-    "未命名.md",
+    "预测知识体系整理.md",
     "模型方法/元分析法.md",
     "README.md",
     "模型方法/自组织理论.md",
