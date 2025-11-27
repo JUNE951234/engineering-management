@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc6b074b5038fa7",
+        "id": "073d8c759891fe7b",
         "type": "tabs",
         "children": [
           {
-            "id": "52c843b9fccf2747",
+            "id": "45235645dee8a25c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "模型方法/工程管理论文中的算法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "icon": "lucide-file",
+              "title": "工程管理论文中的算法"
             }
           }
         ]
@@ -229,16 +241,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52c843b9fccf2747",
+  "active": "45235645dee8a25c",
   "lastOpenFiles": [
+    "模型方法/神经网络算法.md",
+    "模型方法/熵权法.md",
+    "模型方法/评价.md",
+    "模型方法/层次分析法.md",
     "README.md",
     "灰色系统理论.md",
     "预测.md",
     "工程学写作指南.md",
-    "模型方法/层次分析法.md",
     "模型方法/遗传算法.md",
     "管理建模与仿真.md",
-    "模型方法/评价.md",
     "模型方法/自组织理论.md",
     "模型方法/元分析法.md",
     "附件/4a6623b7-39d8-4162-982c-3e096dc6dc4c.png",
@@ -254,9 +268,7 @@
     "模型方法/关键路径法.md",
     "模型方法/支持向量机.md",
     "模型方法/熵权TOPSIS.md",
-    "模型方法/熵权法.md",
     "模型方法/熵权法、熵值法、熵权TOPSIS三种方法的实用场景及优劣比较.md",
-    "模型方法/神经网络算法.md",
     "模型方法/工程管理论文中的算法.md",
     "模型方法/DSM：设计结构矩阵.md",
     "相关文章转载/工程管理研究方法（1）——系统动力学.md",
